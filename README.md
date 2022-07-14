@@ -1,4 +1,4 @@
-# LdapProgamming
+# Apache LDAP Progamming
 
 1. Download Apache directory and directory studio zip file and extract them<br>
    The below versions work fine under java 1.8 <br>
